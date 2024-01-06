@@ -14,7 +14,7 @@
 - [] import 'dotenv' and setup package
 - [] import connect() and invoke in the starter
 - [] restart the server
-- [] mongoose V6 info
+- [] mongoose V8 info
 
 #### Basic Routes and Middleware
 
